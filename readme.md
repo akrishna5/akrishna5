@@ -27,3 +27,8 @@ I'm a third year undergraduate currently pursuing Bachelors in CSE, from VIT, Ve
 <code><img title="GitHub" height="25" src="images/github.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </div>
+
+<audio controls autoplay>
+  <source src="https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ?si=ffe5ca2e46874e0e" type="audio">
+  Your browser does not support the audio element.
+</audio>
