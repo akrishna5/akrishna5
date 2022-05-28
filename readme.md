@@ -5,10 +5,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ashutoshkrris/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/ashutoshkrris/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.instagram.com/ashutoshkrris/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/ashutoshkrris/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
+  <code><a href="https://www.linkedin.com/in/abhishek-krishna-730705237/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/akrishna5/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://twitter.com/akdpsgaya792" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://github.com/akrishna5" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
 </h5>
 
 I'm a third year undergraduate currently pursuing Bachelors in CSE, from VIT, Vellore. Here is my [Linkedin](https://www.linkedin.com/in/abhishek-krishna-730705237/).
