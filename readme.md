@@ -1,6 +1,7 @@
+<h3></h3>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%FF8033&size=30&width=800&lines=Hello+World!+I+am+Abhishek+Krishna">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&background=FFA21E00&width=500&lines=%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%93%F0%9D%90%A8+%F0%9D%90%8C%F0%9D%90%B2+%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E%F0%9F%98%9C;I+am+Abhishek+Krishna+!">
   </a>
 </h1>
 
