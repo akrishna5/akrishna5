@@ -30,5 +30,5 @@ I'm a third year undergraduate currently pursuing Bachelors in CSE, from VIT, Ve
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 
 <div align="center">
-<h3> Show some ❤️ by starring some of the repositories! </h3>
+<h3>♥❤️♥</h3>
 </div>
