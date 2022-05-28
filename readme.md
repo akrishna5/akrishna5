@@ -12,7 +12,7 @@
 </h5>
 
 I'm a third year undergraduate currently pursuing Bachelors in CSE, from VIT, Vellore. Here is my [Linkedin](https://www.linkedin.com/in/abhishek-krishna-730705237/).
-<img align="right" alt="Abhishek Krishna" src="https://raw.githubusercontent.com/snwh/paper-icon-theme/master/Paper/512x512/apps/preferences-color.png" width="200" height="200"/>
+<img align="right" alt="Abhishek Krishna" src="https://logos.textgiraffe.com/logos/logo-name/Abhishek-designstyle-birthday-m.png" width="200" height="200"/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=akrishna5&label=Views&color=blue&style=plastic" alt="akrishna5" /> 
