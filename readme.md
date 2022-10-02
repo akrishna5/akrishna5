@@ -12,3 +12,35 @@ Here is my <ul>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrishna5&layout=compact"/>
+
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+	    </td>          
+            <td width="80px" align="center">
+            <span><strong>C</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+            <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
