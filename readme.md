@@ -15,7 +15,10 @@ Here is my <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true"/>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=akrishna5&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+<details>
+    <summary><b>🛠️ Tools</b></summary><br/>
+    PowerBI | Tableau | AWS |
+</details>
 
 <table width="320px">
     <tbody>
@@ -32,19 +35,21 @@ Here is my <br>
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
+	    <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>	
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+	    <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 	    </td>          
             <td width="80px" align="center">
             <span><strong>C</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+	    </td>	    
             <td width="80px" align="center">
             <span><strong>C++</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-            </td>
+            </td>	    
         </tr>
     </tbody>
 </table>
