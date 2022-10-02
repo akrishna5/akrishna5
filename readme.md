@@ -10,8 +10,6 @@
     I am a Pre-Final Year undergraduate student currently pursuing B.Tech in CSE with specialization in Data Science from VIT Vellore.
 </details>
 
-<br>
-
 Here is my
 <br>
 	<ul>
