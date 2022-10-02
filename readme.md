@@ -10,7 +10,7 @@
     I am a Pre-Final Year undergraduate student currently pursuing B.Tech in CSE with specialization in Data Science from VIT Vellore.
 </details>
 
-Here is my
+Connect with me📱
 <br>
 	<ul>
 	<li><code><a href="https://www.instagram.com/a_krishna5/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code></li>
