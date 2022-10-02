@@ -15,7 +15,7 @@ Here is my <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrishna5&theme=tokyonight)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=akrishna5&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 <table width="320px">
     <tbody>
