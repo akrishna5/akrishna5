@@ -4,9 +4,16 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bradley+Hand+ITC&size=35&duration=3000&color=006400&background=FFA21E00&multiline=true&width=500&height=100&lines=Welcome+To+My+Profile...;I+am+Abhishek+Krishna+!!"></a></h1>
-I am a Pre-Final Year undergraduate student currently pursuing B.Tech in CSE with specialization in Data Science from VIT Vellore.
+    
+<details>
+    <summary><b>👦Bio</b></summary><br/>
+    I am a Pre-Final Year undergraduate student currently pursuing B.Tech in CSE with specialization in Data Science from VIT Vellore.
+</details>
+
 <br>
-Here is my <br>
+
+Here is my
+<br>
 	<ul>
 	<li><code><a href="https://www.instagram.com/a_krishna5/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code></li>
 	<li><code><a href="https://www.linkedin.com/in/akrishna05/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></li>
@@ -14,11 +21,6 @@ Here is my <br>
 	</ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true"/>
-
-<details>
-    <summary><b>🛠️ Tools</b></summary><br/>
-    PowerBI | Tableau | AWS |
-</details>
 
 <table width="320px">
     <tbody>
