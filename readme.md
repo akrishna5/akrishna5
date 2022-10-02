@@ -11,4 +11,4 @@ Here is my <ul>
 	<li><code><a href="https://www.facebook.com/krishnaRAZE/" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code></li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrishna5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrishna5&layout=compact"/>
