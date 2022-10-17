@@ -25,11 +25,11 @@
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-	    <td width="80px" align="center">
+	    <td width="40px" align="center">
             <span><strong>Bootstrap</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
             </td>
-	    <td width="80px" align="center">
+	    <td width="40px" align="center">
             <span><strong>Javascript</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
