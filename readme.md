@@ -1,5 +1,8 @@
 [![@akrishna5's Holopin board](https://holopin.io/api/user/board?user=akrishna5)](https://holopin.io/@akrishna5)
 
+<!DOCTYPE html>
+<html>
+<head>
 <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
 rel="stylesheet"
@@ -9,6 +12,8 @@ crossorigin="anonymous">
 <style>
 body {background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);}
 </style>
+</head>
+</html>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
