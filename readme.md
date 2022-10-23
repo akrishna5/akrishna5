@@ -73,7 +73,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrishna5&theme=tokyonight)
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="💖Thanks for your visit💖" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
-    </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D324F7&width=435&lines=%F0%9F%92%96Thanks+for+your+visit!%F0%9F%92%96" alt="Typing SVG" /></a>
 </div>
