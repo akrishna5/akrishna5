@@ -69,3 +69,10 @@
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true">
+
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="Thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
