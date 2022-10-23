@@ -9,10 +9,6 @@
 <br>
 🔖 Currently pursuing B.Tech in CSE with specialization in Data Science.
 
-<h4 align="center">
-  <a href="https://github.com/akrishna5?tab=repositories" title="Show Repositories"></a>
-</h4>
-
 <h3 align="left">Languages & Tools⚙️</h3>
 <p align="left">
 <table width="320px">
