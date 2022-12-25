@@ -42,11 +42,6 @@
             <span><strong>GitHub</strong></span><br>
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 	    </td>
-	    <td width="80px" align="center">
-            <span><strong>Git SCM</strong></span><br>
-	    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img height="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></a>
-	    </td> 
             <td width="80px" align="center">
             <span><strong>C</strong></span><br>
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -73,5 +68,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrishna5&theme=tokyonight)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D324F7&width=435&lines=%F0%9F%92%96Thanks+for+your+visit!%F0%9F%92%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D324F7&width=435&lines=Thanks+for+your+visit!" alt="Typing SVG" /></a>
 </div>
