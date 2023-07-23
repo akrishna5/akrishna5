@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bradley+Hand+ITC&size=35&duration=3000&color=006400&background=FFA21E00&multiline=true&width=500&height=100&lines=Welcome+To+My+Profile...;I+am+Abhishek+Krishna+!!"></a>
 </h1>
     
-🎓 I am a Pre-Final Year undergraduate student at VIT Vellore.
+🎓 I am a Final Year undergraduate student at VIT Vellore.
 <br>
-🔖 Currently pursuing B.Tech in CSE with specialization in Data Science.
+🔖 Currently pursuing B.Tech in CSE with a specialization in Data Science.
 
 <h3 align="left">Languages & Tools⚙️</h3>
 <p align="left">
