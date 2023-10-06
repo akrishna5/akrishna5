@@ -46,9 +46,11 @@
     </tbody>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akrishna5&label=Profile%20views&color=0e75b6&style=flat" alt="akrishna5" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrishna5&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrishna5&show_icons=true&locale=en&layout=compact" alt="akrishna5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true&locale=en" alt="akrishna5" /></p>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D324F7&width=435&lines=Thanks+for+your+visit!" alt="Typing SVG" /></a>
