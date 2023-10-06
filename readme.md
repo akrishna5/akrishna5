@@ -39,6 +39,10 @@
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 	    </td>
 	    <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+	    </td>
+	    <td width="80px" align="center">
             <span><strong>Github</strong></span><br>
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 	    </td>
