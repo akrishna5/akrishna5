@@ -46,11 +46,6 @@
     </tbody>
 </table>
 
-<p align="left">
-<ul>
-<li><code><a href="https://www.hackerrank.com/akdpsgaya792/" title="Hackerrank Profile"><img width="28" src="images/hackerrank.svg"> Hackerrank</a></code></li>
-</ul>
-
 <img src="https://github-readme-stats.vercel.app/api?username=akrishna5&show_icons=true">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrishna5&theme=tokyonight)
