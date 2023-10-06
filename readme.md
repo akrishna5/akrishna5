@@ -46,14 +46,6 @@
     </tbody>
 </table>
 
-<h3 align="left">Connect with me🙋‍♂️</h3>
-<p align="left">
-<ul>
-	<li><code><a href="https://www.instagram.com/a_krishna5/" title="Instagram Profile"><img width="28" src="images/instagram.svg"> Instagram</a></code></li>
-	<li><code><a href="https://www.linkedin.com/in/akrishna05/" title="LinkedIn Profile"><img width="28" src="images/linkedin.svg"> LinkedIn</a></code></li>
-	<li><code><a href="https://www.facebook.com/krishnaRAZE/" title="Facebook Profile"><img width="28" src="images/facebook.png"> Facebook</a></code></li>
-</ul>
-<h3 align="left">Coding Profile👨‍💻</h3>
 <p align="left">
 <ul>
 <li><code><a href="https://www.hackerrank.com/akdpsgaya792/" title="Hackerrank Profile"><img width="28" src="images/hackerrank.svg"> Hackerrank</a></code></li>
