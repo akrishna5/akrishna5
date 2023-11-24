@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bradley+Hand+ITC&size=35&duration=3000&color=006400&background=FFA21E00&multiline=true&width=500&height=100&lines=Welcome+To+My+Profile...;I+am+Abhishek+Krishna+!!"></a>
 </h1>
     
-🎓 I am a final-year undergraduate student at VIT Vellore.
-<br>
-🔖 Currently pursuing B.Tech in CSE with a specialization in Data Science.
+🎓 I am a final-year undergraduate student at VIT Vellore, currently pursuing a B.Tech in CSE with a specialization in Data Science.
 
 <h3 align="left">Languages & Tools⚙️</h3>
 <p align="left">
@@ -25,11 +23,7 @@
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-	    <td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td>
+	    </td>
 	    <td width="80px" align="center">
             <span><strong>Python(Basic)</strong></span><br>
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
